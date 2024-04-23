@@ -31,7 +31,7 @@ Esta diversidad de habilidades me permite abordar proyectos desde diferentes per
 
 ## 📫 ¿Cómo puedes buscarme?
 - **LinkedIn**: [www.linkedin.com/in/tomas-ramos-b810022b8](https://www.linkedin.com/in/tomas-ramos-b810022b8)
-Puedes contactarme a través de mi correo electrónico: tomy_ramos1991@yahoo.com.ar
+- **Correo electrónico**: Puedes contactarme a través de mi correo electrónico: tomy_ramos1991@yahoo.com.ar
 
 ## ⚡ Fun fact:
 
