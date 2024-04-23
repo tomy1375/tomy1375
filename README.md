@@ -30,8 +30,7 @@ A lo largo de mi carrera y formación, he adquirido experiencia en una amplia ga
 Esta diversidad de habilidades me permite abordar proyectos desde diferentes perspectivas, ya sea en el desarrollo de aplicaciones web, aplicaciones móviles, diseño gráfico, o incluso en la producción musical.
 
 ## 📫 ¿Cómo puedes buscarme?
-
-**www.linkedin.com/in/tomas-ramos-b810022b8**
+- **LinkedIn**: [www.linkedin.com/in/tomas-ramos-b810022b8](https://www.linkedin.com/in/tomas-ramos-b810022b8)
 Puedes contactarme a través de mi correo electrónico: tomy_ramos1991@yahoo.com.ar
 
 ## ⚡ Fun fact:
