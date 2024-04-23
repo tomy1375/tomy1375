@@ -4,13 +4,9 @@
 
 Estoy desarrollando proyectos en React Native para perfeccionar mis habilidades y aprender más sobre esta tecnología. Estos proyectos me permiten explorar diferentes aspectos de React Native, desde aplicaciones básicas hasta más complejas, lo que mejora mi comprensión y habilidades en el desarrollo de aplicaciones móviles nativas.
 
-## 🌱 A dónde me dirijo?
+## 🎯 A dónde me dirijo?
 
-Además de mi base técnica en desarrollo FullStack, poseo conocimientos avanzados en herramientas de ilustración como Photoshop, Illustrator y After Effects. Esto me permite aportar una perspectiva atractiva en diseño y animación a los proyectos digitales. En cualquier equipo, promuevo un ambiente de compañerismo y buen humor, siempre con un enfoque ético y compromiso con la calidad.
-
-## 🌱 Mi objetivo es...
-
-Mi objetivo es combinar mi sólida base en desarrollo FullStack con mis habilidades avanzadas en diseño y animación, utilizando herramientas como Photoshop, Illustrator y After Effects. Creo firmemente en la importancia de un diseño atractivo y una experiencia de usuario , y siempre busco promover un ambiente de trabajo positivo y colaborativo, enfocado en la ética y la calidad.
+Mi objetivo es combinar mi sólida base en desarrollo FullStack con mis habilidades avanzadas en diseño y animación, utilizando herramientas como Photoshop, Illustrator y After Effects. Creo firmemente en la importancia de un diseño atractivo y una experiencia de usuario excepcional, y siempre busco promover un ambiente de trabajo positivo y colaborativo, enfocado en la ética y la calidad.
 
 ## 👯 Estoy buscando colaborar en...
 
@@ -20,7 +16,7 @@ Proyectos que combinen habilidades técnicas con un enfoque creativo y estético
 
 Soy un Desarrollador FullStack con una formación sólida en música y composición musical. Mi experiencia en la música ha enriquecido mi creatividad y sensibilidad hacia la estética y la experiencia de usuario, habilidades que aplico en la creación de productos digitales tanto funcionales como visualmente atractivos.
 
-### Tecnologías que utilizo
+### Habilidades
 
 A lo largo de mi carrera y formación, he adquirido experiencia en una amplia gama de tecnologías. Aquí te presento algunas de las más destacadas:
 
@@ -29,15 +25,15 @@ A lo largo de mi carrera y formación, he adquirido experiencia en una amplia ga
 - **Herramientas de desarrollo**: Visual Studio, Postman
 - **Herramientas de diseño y animación**: After Effects, Figma, Illustrator, Photoshop
 - **Herramientas de música y producción**: Cubase, Sibelius
-- **Otras tecnologías**: Socket.io,  JavaScript
+- **Otras tecnologías**: Socket.io, JavaScript
 
-Esta diversidad de habilidades me permite abordar proyectos desde diferentes perspectivas, ya sea en el desarrollo de aplicaciones web, aplicaciones móviles, diseño gráfico, o incluso en la producción musical
+Esta diversidad de habilidades me permite abordar proyectos desde diferentes perspectivas, ya sea en el desarrollo de aplicaciones web, aplicaciones móviles, diseño gráfico, o incluso en la producción musical.
 
-## 📫 ¿Cómo puedes alcanzarme?
+## 📫 ¿Cómo puedes buscarme?
 
 Puedes contactarme a través de mi correo electrónico: tomy_ramos1991@yahoo.com.ar
-
 
 ## ⚡ Fun fact:
 
 Me gusta sacar fotos, editar videos, tocar la guitarra y el piano, y crear arte digital en mis tiempos libres.
+
