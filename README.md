@@ -35,5 +35,5 @@ Esta diversidad de habilidades me permite abordar proyectos desde diferentes per
 
 ## ⚡ Fun fact:
 
-Me gusta sacar fotos, editar videos, tocar la guitarra y el piano, y crear arte digital en mis tiempos libres.
+Me gusta sacar fotos, editar videos, tocar la guitarra, el piano, y crear arte digital en mis tiempos libres.
 
