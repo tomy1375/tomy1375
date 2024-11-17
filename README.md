@@ -1,5 +1,7 @@
 ### Hola mi nombre es Tomas Ramos 👋
 
+https://github.com/tomy1375/Portafolio/blob/main/public/escritorio.jpeg?raw=true
+
 ## 🔭 Actualmente estoy trabajando en...
 
 Estoy desarrollando proyectos en React Native para perfeccionar mis habilidades y aprender más sobre esta tecnología. Estos proyectos me permiten explorar diferentes aspectos de React Native, desde aplicaciones básicas hasta más complejas, lo que mejora mi comprensión y habilidades en el desarrollo de aplicaciones móviles nativas.
