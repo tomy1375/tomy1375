@@ -1,39 +1,59 @@
-### Hola mi nombre es Tomas Ramos 👋
+# Tomás Ramos | Desarrollador FullStack 🚀
 
-## 🔭 Actualmente estoy trabajando en...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-ramos-b810022b8)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomy_ramos1991@yahoo.com.ar)
 
-Estoy desarrollando proyectos en React Native para perfeccionar mis habilidades y aprender más sobre esta tecnología. Estos proyectos me permiten explorar diferentes aspectos de React Native, desde aplicaciones básicas hasta más complejas, lo que mejora mi comprensión y habilidades en el desarrollo de aplicaciones móviles nativas.
+## 👨‍💻 Sobre mí
 
-## 🎯 A dónde me dirijo?
+Soy un Desarrollador FullStack con una formación que combina tecnología y música. Esta fusión me permite aportar una perspectiva creativa y sensible al desarrollo de productos digitales, creando soluciones que no solo funcionan perfectamente sino que también ofrecen experiencias excepcionales para el usuario.
 
-Mi objetivo es combinar mi sólida base en desarrollo FullStack con mis habilidades avanzadas en diseño y animación, utilizando herramientas como Photoshop, Illustrator y After Effects. Creo firmemente en la importancia de un diseño atractivo y una experiencia de usuario excepcional, y siempre busco promover un ambiente de trabajo positivo y colaborativo, enfocado en la ética y la calidad.
+## 🛠️ Stack Tecnológico
 
-## 👯 Estoy buscando colaborar en...
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Proyectos que combinen habilidades técnicas con un enfoque creativo y estético. Si buscas a alguien que pueda aportar tanto en el desarrollo como en el diseño de productos digitales, estoy a tu disposición para colaborar en tu próximo proyecto.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🤔 ¿Qué hago?
+### Herramientas de Diseño
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-Soy un Desarrollador FullStack con una formación sólida en música y composición musical. Mi experiencia en la música ha enriquecido mi creatividad y sensibilidad hacia la estética y la experiencia de usuario, habilidades que aplico en la creación de productos digitales tanto funcionales como visualmente atractivos.
+## 🚀 Proyectos Actuales
 
-### Habilidades
+Actualmente estoy enfocado en el desarrollo de aplicaciones móviles con React Native, buscando expandir mis habilidades y conocimientos en el desarrollo móvil nativo.
 
-A lo largo de mi carrera y formación, he adquirido experiencia en una amplia gama de tecnologías. Aquí te presento algunas de las más destacadas:
+## 🎯 Objetivos Profesionales
 
-- **Frontend**: HTML, CSS, React.js, Redux, Tailwind CSS
-- **Backend**: Node.js, PostgreSQL
-- **Herramientas de desarrollo**: Visual Studio, Postman
-- **Herramientas de diseño y animación**: After Effects, Figma, Illustrator, Photoshop
-- **Herramientas de música y producción**: Cubase, Sibelius
-- **Otras tecnologías**: Socket.io, JavaScript
+Mi meta es crear experiencias digitales excepcionales combinando:
+- 💻 Desarrollo FullStack
+- 🎨 Diseño UI/UX
+- 🎬 Animación y motion graphics
+- 🤝 Trabajo colaborativo
+- 📈 Mejora continua
 
-Esta diversidad de habilidades me permite abordar proyectos desde diferentes perspectivas, ya sea en el desarrollo de aplicaciones web, aplicaciones móviles, diseño gráfico, o incluso en la producción musical.
+## 🎵 Más Allá del Código
 
-## 📫 ¿Cómo puedes buscarme?
-- **LinkedIn**: [www.linkedin.com/in/tomas-ramos-b810022b8](https://www.linkedin.com/in/tomas-ramos-b810022b8)
-- **Correo electrónico**: Puedes contactarme a través de mi correo electrónico: tomy_ramos1991@yahoo.com.ar
+- 📸 Fotografía
+- 🎥 Edición de video
+- 🎸 Guitarra
+- 🎹 Piano
+- 🎨 Arte digital
 
-## ⚡ Fun fact:
+## 📫 Contacto
 
-Me gusta sacar fotos, editar videos, tocar la guitarra, el piano, y crear arte digital en mis tiempos libres.
+¿Tienes un proyecto interesante? ¡Hablemos!
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomas-ramos-b810022b8)
+- 📧 [Email](mailto:tomy_ramos1991@yahoo.com.ar)
+
+---
+
+> "La creatividad es la inteligencia divirtiéndose" - Albert Einstein
