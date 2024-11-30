@@ -50,7 +50,7 @@ Mi meta es crear experiencias digitales excepcionales combinando:
 - 🎸 Guitarra
 - 🎹 Piano
 - 🎨 Arte digital
----
+
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=tomy1375&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tomy1375)
